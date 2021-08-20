@@ -1,0 +1,5 @@
+Price: 1.79 | Length: 1.5 | Color: Grey | Surface: Normal | Material: Paper
+Price: 4.67 | Length: 1.5 | Color: Pink | Surface: Smooth | Material: Kraft_paper
+Price: 2.60 | Length: 1.5 | Color: Purple | Surface: Ribbed | Material: Kraft_paper
+Price: 4.16 | Length: 1.5 | Color: Blue | Surface: Corrugated | Material: Kraft_paper
+Price: 3.99 | Length: 1.5 | Color: Orange | Surface: Plain | Material: Transparent_PVC

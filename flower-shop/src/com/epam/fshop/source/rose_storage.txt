@@ -1,0 +1,12 @@
+Price: 11.25   | Freshness: 5 | Length: 35 | Color: Whine | Variety: English | ThornType: Small | Habitat: Garden
+Price: 11.25   | Freshness: 3 | Length: 35 | Color: Whine | Variety: English | ThornType: Small | Habitat: Garden
+Price: 11.25   | Freshness: 6 | Length: 35 | Color: Whine | Variety: English | ThornType: Small | Habitat: Garden
+Price: 15.18  | Freshness: 6 | Length: 25 | Color: White | Variety: Grandiflora | ThornType: Medium | Habitat: Wild
+Price: 15.18  | Freshness: 6 | Length: 25 | Color: White | Variety: Grandiflora | ThornType: Medium | Habitat: Wild
+Price: 15.18  | Freshness: 7 | Length: 25 | Color: White | Variety: Grandiflora | ThornType: Medium | Habitat: Wild
+Price: 14.73  | Freshness: 3 | Length: 50 | Color: Red | Variety: Floribunda | ThornType: Large | Habitat: Garden
+Price: 14.73  | Freshness: 1 | Length: 50 | Color: Red | Variety: Floribunda | ThornType: Large | Habitat: Garden
+Price: 14.73  | Freshness: 6 | Length: 50 | Color: Red | Variety: Floribunda | ThornType: Large | Habitat: Garden
+Price: 19.20  | Freshness: 1 | Length: 45 | Color: Blue | Variety: Grandiflora | ThornType: Small | Habitat: Wild
+Price: 19.20  | Freshness: 4 | Length: 45 | Color: Blue | Variety: Grandiflora | ThornType: Small | Habitat: Wild
+Price: 19.20  | Freshness: 7 | Length: 45 | Color: Blue | Variety: Grandiflora | ThornType: Small | Habitat: Wild

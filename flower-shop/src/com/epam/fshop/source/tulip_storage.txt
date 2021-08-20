@@ -1,0 +1,12 @@
+Price: 8.86   | Freshness: 3 | Length: 35 | Color: White | Variety: Darwin | Shape: Parrot | Fringe: Fringed
+Price: 8.86   | Freshness: 3 | Length: 35 | Color: White | Variety: Darwin | Shape: Parrot | Fringe: Fringed
+Price: 8.86   | Freshness: 5 | Length: 35 | Color: White | Variety: Darwin | Shape: Parrot | Fringe: Fringed
+Price: 5.68   | Freshness: 6 | Length: 50 | Color: Blue | Variety: Triumph | Shape: Lily | Fringe: Not_fringed
+Price: 5.68   | Freshness: 1 | Length: 50 | Color: Blue | Variety: Triumph | Shape: Lily | Fringe: Not_fringed
+Price: 5.68   | Freshness: 3 | Length: 50 | Color: Blue | Variety: Triumph | Shape: Lily | Fringe: Not_fringed
+Price: 11.41  | Freshness: 2 | Length: 20 | Color: Pink | Variety: Fosteriana | Shape: Simple | Fringe: Not_fringed
+Price: 11.41  | Freshness: 6 | Length: 20 | Color: Pink | Variety: Fosteriana | Shape: Simple | Fringe: Not_fringed
+Price: 11.41  | Freshness: 1 | Length: 20 | Color: Pink | Variety: Fosteriana | Shape: Simple | Fringe: Not_fringed
+Price: 18.07  | Freshness: 5 | Length: 30 | Color: Black | Variety: Candy_Prince | Shape: Terry | Fringe: Fringed
+Price: 18.07  | Freshness: 2 | Length: 30 | Color: Black | Variety: Candy_Prince | Shape: Terry | Fringe: Fringed
+Price: 18.07  | Freshness: 1 | Length: 30 | Color: Black | Variety: Candy_Prince | Shape: Terry | Fringe: Fringed

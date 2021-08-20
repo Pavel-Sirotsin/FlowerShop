@@ -1,0 +1,12 @@
+Price: 14.01  | Freshness: 7 | Length: 30 | Color: Red | Variety: Semi_double | Bush: Terry_type | Fragrance: Like_rose
+Price: 14.01  | Freshness: 2 | Length: 30 | Color: Red | Variety: Semi_double | Bush: Terry_type | Fragrance: Like_rose
+Price: 14.01  | Freshness: 7 | Length: 30 | Color: Red | Variety: Semi_double | Bush: Terry_type | Fragrance: Like_rose
+Price: 11.04  | Freshness: 4 | Length: 40 | Color: Pink | Variety: Bomb and Full | Bush: Grass_type | Fragrance: Like_jasmin
+Price: 11.04  | Freshness: 1 | Length: 40 | Color: Pink | Variety: Bomb and Full | Bush: Grass_type | Fragrance: Like_jasmin
+Price: 11.04  | Freshness: 3 | Length: 40 | Color: Pink | Variety: Bomb and Full | Bush: Grass_type | Fragrance: Like_jasmin
+Price: 17.67  | Freshness: 6 | Length: 40 | Color: Purple | Variety: Anemone | Bush: Tree_type | Fragrance: Like_lime
+Price: 17.67  | Freshness: 7 | Length: 40 | Color: Purple | Variety: Anemone | Bush: Tree_type | Fragrance: Like_lime
+Price: 17.67  | Freshness: 5 | Length: 40 | Color: Purple | Variety: Anemone | Bush: Tree_type | Fragrance: Like_lime
+Price: 14.90  | Freshness: 5 | Length: 30 | Color: White | Variety: Semi_double | Bush: Tree_type | Fragrance: Odorless
+Price: 14.90  | Freshness: 5 | Length: 30 | Color: White | Variety: Semi_double | Bush: Tree_type | Fragrance: Odorless
+Price: 14.90  | Freshness: 5 | Length: 30 | Color: White | Variety: Semi_double | Bush: Tree_type | Fragrance: Odorless

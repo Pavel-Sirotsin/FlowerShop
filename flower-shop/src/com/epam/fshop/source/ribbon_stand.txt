@@ -1,0 +1,5 @@
+Price: 0.90 | Length: 0.5 | Color: Light_Orange | Edge: Gold_stitched | Fabric: Cotton
+Price: 0.70 | Length: 0.5 | Color: Light_Pink | Edge: Silver_stitched | Fabric: Silk
+Price: 0.85 | Length: 0.5 | Color: Light_green | Edge: Black_Red stitched | Fabric: Viscose
+Price: 0.30 | Length: 0.5 | Color: White | Edge: Tightened | Fabric: cotton
+Price: 0.63 | Length: 0.5 | Color: Ocean | Edge: Tightened | Fabric: polyester
