@@ -1,0 +1,5 @@
+*.iml
+*.git
+.git/
+.idea/
+out/

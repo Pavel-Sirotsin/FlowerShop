@@ -1,1 +1,4 @@
 #empty now
+1) added log4j2
+2) added lambdas
+3) added ref methods

@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PionStorageImpl implements FlowerStorage {
-    private static final String SOURCE = "src/com/epam/fshop/source/pion_storage.txt";
+    private static final String SOURCE = "flower-shop/src/com/epam/fshop/source/pion_storage.txt";
 
     @Override
     public List<Flower> showAllStorage() throws DAOException {

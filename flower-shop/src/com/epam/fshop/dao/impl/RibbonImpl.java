@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RibbonImpl implements AccessoryStand {
-    private static final String SOURCE = "src/com/epam/fshop/source/ribbon_stand.txt";
+    private static final String SOURCE = "flower-shop/src/com/epam/fshop/source/ribbon_stand.txt";
 
 
     @Override

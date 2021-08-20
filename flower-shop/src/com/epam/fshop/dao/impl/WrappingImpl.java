@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WrappingImpl implements AccessoryStand {
-    private static final String SOURCE = "src/com/epam/fshop/source/wrapping_stand.txt";
+    private static final String SOURCE = "flower-shop/src/com/epam/fshop/source/wrapping_stand.txt";
 
     @Override
     public List<Accessory> showAccessory() throws DAOException {
